@@ -1,32 +1,9 @@
-<!-- <h1 align="center">Hi 👋, I'm Rasel Hossain</h1>
-<h3 align="center">MERN Stack Developer</h3>
-
-- 🔭 I’m currently working on **Vue Expart**
-
-- 🌱 I’m currently learning **Vue.js,Nuxt.js**
-
-- 👨‍💻 All of my projects are available at [https://raselofficial.com/](https://raselofficial.com/)
-
-- 📝 I regularly write articles on [https://raselhossainy52.medium.com/](https://raselhossainy52.medium.com/)
-
-- 💬 Ask me about **React,Vue.js,Node.js,Lottie Animation**
-
-- 📫 How to reach me **https://raselofficial.com/**
-
-<div align="center"> -->
-
-
-
-
-
-
-
- <div align="center">
+<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=1000&lines=Hi,+this+is++Mohammad+Sharkar...💻;But,+you+can+call+me...;JavaS+Lover...❤;Thank+you+so+much+for+following+my+Profile)](https://mdyeamin.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=1000&lines=Hello,+This+is++Mohammad+Sharkar...;But,+you+can+call+me++Java+Lover...❤;Thank+you+so+much+for+following+my+Profile)](https://mdyeamin.netlify.app/)
 
 <h2 align="center">
-  <a href="https://github.com/mdyeamin"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+developer+;API+developer;Frontend+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+QA+Automation+Engineer+;Functional+Tester+;API+Tester+;Mobile+Automation+Engineer;SQE+;Manual+Tester;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </h2>
 </div>
 
