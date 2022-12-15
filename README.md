@@ -60,6 +60,9 @@
   <!-- CSS -->
   <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS" width="40" /> </a>
   &nbsp;
+  <!-- VS code  -->
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
+&nbsp;
   <!-- Bootstrap -->
   <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" /> </a>
   &nbsp;
@@ -71,8 +74,7 @@
   &nbsp;
   <!-- git -->
   <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
-  &nbsp; 
-  
+  &nbsp;   
   <!-- MongoDb -->
   </a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" /> 
   &nbsp; 
@@ -93,8 +95,7 @@
   &nbsp;
   <!-- Cucumber  -->
   <a href="" target="_blank"> <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="Cucumber" width="40"/> </a>
-  &nbsp;
-  
+  &nbsp;  
   <!-- Appium  -->
    <a href="" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a>
    &nbsp;
@@ -118,9 +119,6 @@
    &nbsp;
   <!-- Selenium_4  -->
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium_4 " width="40"/> </a>
-&nbsp;
-<!-- VS code  -->
-<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
 &nbsp;
 <!-- Hadoop -->
 <a href="" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="Hadoop " width="40"/> </a>
