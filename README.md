@@ -23,7 +23,7 @@
 
  <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+this+is++Yeamin...💻;But,+you+can+call+me...;JavaScript+Lover...❤;Thank+you+so+much+for...;Following+my+GitHub🥰)](https://mdyeamin.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=500&lines=Hi,+this+is++Mohammad+Sharkar...💻;But,+you+can+call+me...;JavaScript+Lover...❤;Thank+you+so+much+for...;Following+my+GitHub🥰)](https://mdyeamin.netlify.app/)
 
 <h2 align="center">
   <a href="https://github.com/mdyeamin"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+developer+;API+developer;Frontend+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
