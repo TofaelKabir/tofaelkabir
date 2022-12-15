@@ -15,7 +15,7 @@
   
 
 
-<br>
+
 
 <!-- - 🌱 I’m currently learning **TS, react native, redux**
 
