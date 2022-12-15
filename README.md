@@ -15,7 +15,7 @@
   
 
 
-
+<br>
 
 <!-- - 🌱 I’m currently learning **TS, react native, redux**
 
@@ -42,14 +42,29 @@
 </br>
 <p align="center">
   <!--Others-->
+  <!-- Java  -->
+  <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/> </a>
+      &nbsp;
+  <!--Eclipse-->
+<a href="" target="_blank"> <img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" alt="Eclipse" width="40"/> </a>
+&nbsp;
+  <!-- Python  -->
+  <a href="" target="_blank"> <img src="https://i.pinimg.com/736x/4d/13/d5/4d13d55d6d0b38b7a4e85fcf97ff6279.jpg" alt="Python " width="40"/> </a>
+  &nbsp;
+  <!-- JS -->
+  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
+  &nbsp; 
   <!-- HTML -->
-   <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
+  <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
   &nbsp;
   <!-- CSS -->
-   <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS" width="40" /> </a>
+  <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS" width="40" /> </a>
   &nbsp;
   <!-- Bootstrap -->
   <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" /> </a>
+  &nbsp;
+  <!-- SQL  -->
+  <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
   &nbsp;
   <!-- MYSQL -->
   <a href="" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MYSQL" width="40" /> </a>
@@ -57,9 +72,7 @@
   <!-- git -->
   <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
   &nbsp; 
-  <!-- JS -->
-  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
-  &nbsp; 
+  
   <!-- MongoDb -->
   </a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" /> 
   &nbsp; 
@@ -72,9 +85,6 @@
   <!--Jenkins-->
 <a href="" target="_blank"> <img src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png" alt="Jenkins" width="40"/> </a>
 &nbsp;
-  <!--Eclipse-->
-<a href="" target="_blank"> <img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" alt="Eclipse" width="40"/> </a>
-&nbsp;
   <!--Maven-->
 <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" alt="Maven" width="40"/> </a>
 &nbsp;
@@ -84,9 +94,7 @@
   <!-- Cucumber  -->
   <a href="" target="_blank"> <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="Cucumber" width="40"/> </a>
   &nbsp;
-  <!-- SQL  -->
-  <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
-  &nbsp;
+  
   <!-- Appium  -->
    <a href="" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a>
    &nbsp;
@@ -101,10 +109,7 @@
 &nbsp;
   <!-- GitHub  -->
   <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a>
-  &nbsp;
-  <!-- Java  -->
-  <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/> </a>
-      &nbsp;
+  &nbsp; 
   <!-- SDLC  -->
   <a href="" target="_blank"> <img src="https://t4.ftcdn.net/jpg/05/41/91/07/360_F_541910787_PROoPe5SAXpM1ZQbD0kJtXHDp1pjjfcV.jpg" alt="SDLC" width="40"/> </a>
   &nbsp;
@@ -120,9 +125,7 @@
 <!-- Hadoop -->
 <a href="" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="Hadoop " width="40"/> </a>
 &nbsp;
-<!-- Python -->
-<a href="" target="_blank"> <img src="https://i.pinimg.com/736x/4d/13/d5/4d13d55d6d0b38b7a4e85fcf97ff6279.jpg" alt="Python " width="40"/> </a>
- </p> 
+</p> 
 
 
 
