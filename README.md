@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=1000&lines=Hello,+This+is++Mohammad+Sharkar...;But,+you+can+call+me++Java+Lover...❤;Thank+you+so+much+for+following+my+Profile)](https://mdyeamin.netlify.app/)
 
 <h2 align="center">
-  <a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+QA+Automation+Engineer+;Functional+Tester+;API+Tester+;Mobile+Automation+Engineer;SQE+;Manual+Tester;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%QA+Automation+Engineer+;Functional+Tester+;API+Tester+;Mobile+Automation+Engineer;SQE+;Manual+Tester;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </h2>
 </div>
 
