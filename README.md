@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VY0HU-u08JcHzFz_YsekAbUs4G3fW4Pc/view?usp=sharing](https://drive.google.com/file/d/1VY0HU-u08JcHzFz_YsekAbUs4G3fW4Pc/view?usp=sharing) -->
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/208413/isolated/preview/fb06d1167b14bf813d41fa2adfe5c0f8-phone-conversation-flat-icon.png" alt="Call" height="30" width="40" /></a>
   <a href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
@@ -40,7 +40,7 @@
   <a href="https://www.youtube.com/c/raselofficialyoutube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raselofficialyoutube" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 </br>
 <p align="center">
   <!--Others-->
@@ -97,7 +97,6 @@
   <!-- Postman  -->
   <a href="" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
   &nbsp;
-   &nbsp;
   <!-- Jira  -->
    <a href="" target="_blank"> <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" alt="Jira" width="40"/> </a>
    &nbsp;
@@ -113,9 +112,6 @@
   <!-- SDLC  -->
   <a href="" target="_blank"> <img src="https://t4.ftcdn.net/jpg/05/41/91/07/360_F_541910787_PROoPe5SAXpM1ZQbD0kJtXHDp1pjjfcV.jpg" alt="SDLC" width="40"/> </a>
   &nbsp;
-<!-- Hadoop -->
-<a href="" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="Hadoop " width="40"/> </a>
-&nbsp;
   <!-- Eclipse  -->
 <a href="" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="Eclipse" width="40"/> </a>
 &nbsp;
@@ -131,29 +127,26 @@
  <!-- VS code  -->
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
 &nbsp;
+  <!-- Hadoop -->
+<a href="" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="Hadoop " width="40"/> </a>
+&nbsp;
 </p> 
 
 
 
 <div align="center">
 &nbsp;
-<h1 align="center">
-  ABOUT ME
-</h1>
+<h1 align="center">ABOUT ME</h1>
   
-<img width="105" height="105" src="img/boy.png" />
+<!-- <img width="105" height="105" src="" /> -->
 
-<h3>'Your More about and future things :  🎊💓'</h3>
+<h3>More about Me and Future Plans</h3>
 
 <h5>  
-I am a Frontend web Developer with the skill HTML, CSS, bootstrap, Material UI, Javascript, React.js, etc.
-And I'm trying to learn backend MongoDB, express.js, node.js
-I did some work in the backend,
-I hope to become a full-stack developer very soon
+This is Mohammad Sharkar. Currently I am working at Verizon as a Technology Lead. Recently I am working on “Network Agreement Management System” Project where Verizon as a Vendor does a Network agreement with a different company for its network expansion. As a tester, I mimic the role of Engineers to complete the agreement process. I test the newly developed feature manually first, then I start writing the test script based on Java and Selenium based Framework on the story assigned to me.
+<br>
+In Future, Either I wanna be a Full Stack Developer. I am preparing myself by learning HTML, CSS, Bootstrap, Javascript and related Framework. I also learn Python to give a footstep for that language. I also have interest for Hadoop Framework.
 </h5>
-I'm a Frontend web developer and Fancy web designer. I started building websites in 2020. I know how to make an appealing website. Though I am a junior Developer and designer but I am very Confident about my work .
-
-
 </div>
  <!--- Portfolio/Website --->  
   
