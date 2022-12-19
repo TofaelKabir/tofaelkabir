@@ -53,6 +53,9 @@
   <!-- JS -->
   <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
   &nbsp; 
+      <!-- NodeJS -->
+  </a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
+  &nbsp;
   <!-- HTML -->
   <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
   &nbsp;
@@ -68,15 +71,15 @@
   <!-- MYSQL -->
   <a href="" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MYSQL" width="40" /> </a>
   &nbsp;
-  <!-- git -->
-  <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
-  &nbsp;   
-  <!-- MongoDb -->
+ <!-- MongoDb -->
   </a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" /> 
   &nbsp; 
-  <!-- NodeJS -->
-  </a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
+  <!-- git -->
+  <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
   &nbsp; 
+  <!-- GitHub  -->
+  <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a> 
+  &nbsp;  
   <!--Saucslabs-->
  <a href="" target="_blank"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1479221701/v0d4moz4jx0wultjuxec.png" alt="Saucslabs" width="40"/> </a> 
  &nbsp; 
@@ -101,9 +104,6 @@
   <!-- Browserstack  -->
   <a href="" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" alt="Browserstack" width="40"/> </a>
   &nbsp;
-    <!-- GitHub  -->
-  <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a>
-  &nbsp; 
   <!-- SDLC  -->
   <a href="" target="_blank"> <img src="https://t4.ftcdn.net/jpg/05/41/91/07/360_F_541910787_PROoPe5SAXpM1ZQbD0kJtXHDp1pjjfcV.jpg" alt="SDLC" width="40"/> </a>
   &nbsp;
@@ -128,7 +128,7 @@
 <!-- Webstorm -->
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="Webstorm " width="40"/> </a>
 &nbsp;
-   <!-- VS code  -->
+ <!-- VS code  -->
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
 &nbsp;
 </p> 
