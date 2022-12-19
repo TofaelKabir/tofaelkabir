@@ -1,7 +1,8 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=1000&lines=Hello,+This+is++Mohammad+Sharkar...;But,+you+can+call+me++Java+Lover...❤;Thank+you+so+much+for+following+my+Profile)](https://mdyeamin.netlify.app/)
-<!-- You can use + symbol or %20 to give a space between words -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=1000&lines=Hello,+This+is++Mohammad+Tofael+Kabir+Sharkar...;But,+you+can+also+call+me+a++Java+Lover...;Thank+you+so+much+for+visiting+my+Profile)](https://mdyeamin.netlify.app/)
+
+  <!-- You can use + symbol or %20 to give a space between words -->
 <h2 align="center">
   <a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester+;API+Tester+;Mobile+Automation+Engineer;SQE+;Manual+Tester;DS%20|%20Algorithms%20|%20OOP%20;&center=true&width=500&height=50"></a>
 </h2>
@@ -10,11 +11,6 @@
 <p align="left">
   <img alt="" style="{max-height: 0px}" src="img/header.jpg">
 </p>
-
-  
-  
-
-
 <br>
 
 <!-- - 🌱 I’m currently learning **TS, react native, redux**
@@ -145,7 +141,7 @@
 <h5>  
 This is Mohammad Sharkar. Currently I am working at Verizon as a Technology Lead. Recently I am working on “Network Agreement Management System” Project where Verizon as a Vendor does a Network agreement with a different company for its network expansion. As a tester, I mimic the role of Engineers to complete the agreement process. I test the newly developed feature manually first, then I start writing the test script based on Java and Selenium based Framework on the story assigned to me.
 <br>
-In Future, Either I wanna be a Full Stack Developer. I am preparing myself by learning HTML, CSS, Bootstrap, Javascript and related Framework. I also learn Python to give a footstep for that language. I also have interest for Hadoop Framework.
+In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am preparing myself by learning HTML, CSS, Bootstrap, Javascript and related Framework. I also learn Python to give a footstep for that language. I also have interest for Hadoop Big Data Analysis.
 </h5>
 </div>
  <!--- Portfolio/Website --->  
