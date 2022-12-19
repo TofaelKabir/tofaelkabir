@@ -47,9 +47,6 @@
   <!-- Java  -->
   <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/> </a>
       &nbsp;
-  <!--Eclipse-->
-<a href="" target="_blank"> <img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" alt="Eclipse" width="40"/> </a>
-&nbsp;
   <!-- Python  -->
   <a href="" target="_blank"> <img src="https://i.pinimg.com/736x/4d/13/d5/4d13d55d6d0b38b7a4e85fcf97ff6279.jpg" alt="Python " width="40"/> </a>
   &nbsp;
@@ -62,10 +59,7 @@
   <!-- CSS -->
   <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS" width="40" /> </a>
   &nbsp;
-  <!-- VS code  -->
-<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
-&nbsp;
-  <!-- Bootstrap -->
+   <!-- Bootstrap -->
   <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" /> </a>
   &nbsp;
   <!-- SQL  -->
@@ -107,10 +101,7 @@
   <!-- Browserstack  -->
   <a href="" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" alt="Browserstack" width="40"/> </a>
   &nbsp;
-  <!-- Eclipse  -->
-<a href="" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="Eclipse" width="40"/> </a>
-&nbsp;
-  <!-- GitHub  -->
+    <!-- GitHub  -->
   <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a>
   &nbsp; 
   <!-- SDLC  -->
@@ -125,6 +116,9 @@
 <!-- Hadoop -->
 <a href="" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="Hadoop " width="40"/> </a>
 &nbsp;
+  <!-- Eclipse  -->
+<a href="" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="Eclipse" width="40"/> </a>
+&nbsp;
   <!-- IntelliJ IDea -->
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDea " width="40"/> </a>
 &nbsp;
@@ -133,6 +127,9 @@
 &nbsp;
 <!-- Webstorm -->
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="Webstorm " width="40"/> </a>
+&nbsp;
+   <!-- VS code  -->
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
 &nbsp;
 </p> 
 
