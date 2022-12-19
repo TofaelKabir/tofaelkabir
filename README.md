@@ -45,7 +45,7 @@
 <p align="center">
   <!--Others-->
   <!-- Java  -->
-  <a titel = "Java" href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/> </a>
+  <a title = "Java" href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/> </a>
       &nbsp;
   <!-- Python  -->
   <a href="" target="_blank"> <img src="https://i.pinimg.com/736x/4d/13/d5/4d13d55d6d0b38b7a4e85fcf97ff6279.jpg" alt="Python " width="40"/> </a>
