@@ -29,7 +29,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/@rasel__official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rasel__official" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/208413/isolated/preview/fb06d1167b14bf813d41fa2adfe5c0f8-phone-conversation-flat-icon.png" alt="Call" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
+<a href="https://twitter.com/@rasel__official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rasel__official" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mdyeamin05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdyeamin05/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16836780/md-yeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16836780/md-yeamin" height="30" width="40" /></a>
 <a href="https://facebook.com/mdyeamin05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/mdyeamin05" height="30" width="40" /></a>
@@ -122,6 +124,15 @@
 &nbsp;
 <!-- Hadoop -->
 <a href="" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="Hadoop " width="40"/> </a>
+&nbsp;
+  <!-- IntelliJ IDea -->
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDea " width="40"/> </a>
+&nbsp;
+<!-- Pycharm -->
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" alt="Pycharm " width="40"/> </a>
+&nbsp;
+<!-- Webstorm -->
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="Webstorm " width="40"/> </a>
 &nbsp;
 </p> 
 
