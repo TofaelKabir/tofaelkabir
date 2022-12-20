@@ -10,7 +10,6 @@
 <a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester%20|%20API+Tester%20|%20Test+Analyst;Mobile+Automation+Engineer;SQE%20|%20SDET%20;&center=true&width=500&height=50"></a>
 </h2>
 </div>
-<br>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
