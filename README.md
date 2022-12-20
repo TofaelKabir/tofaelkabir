@@ -166,9 +166,9 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
 
   <div align="center">
 <img height="40" src="img/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
-  </div>
+  </div> -->
 
-<hr> -->
+<hr> 
 
   <!-- most used language  -->
 
