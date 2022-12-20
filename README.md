@@ -2,27 +2,15 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=1000&lines=Hello,+This+is++Mohammad+Tofael+Kabir+Sharkar...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
 
-  <!-- You can use + symbol or %20 to give a space between words -->
+<!-- You can use + symbol or %20 to give a space between words -->
+<!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
+ <h3 align="center">You can Hire me As</h3> 
 <!--  DS%20|%20Algorithms%20|%20OOP%20;  -->
 <h2 align="center">
-  <a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester+;API+Tester+;Mobile+Automation+Engineer;SQE+;Test+Analyst;&center=true&width=500&height=50"></a>
+<a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester%20|%20API+Tester%20|%20Test+Analyst;Mobile+Automation+Engineer;SQE%20|%20SDET%20;&center=true&width=500&height=50"></a>
 </h2>
 </div>
-
-<p align="left">
-  <img alt="" style="{max-height: 0px}" src="img/header.jpg">
-</p>
 <br>
-
-<!-- - 🌱 I’m currently learning **TS, react native, redux**
-
-- 👨‍💻 All of my projects are available at [https://mdyeamin.netlify.app/](https://mdyeamin.netlify.app/)
-
-- 📝 I regularly write articles on [https://stackoverflow.com/users/16836780/md-yeamin?tab=articles](https://stackoverflow.com/users/16836780/md-yeamin?tab=articles)
-
-- 💬 Ask me about **react,TS,JS**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VY0HU-u08JcHzFz_YsekAbUs4G3fW4Pc/view?usp=sharing](https://drive.google.com/file/d/1VY0HU-u08JcHzFz_YsekAbUs4G3fW4Pc/view?usp=sharing) -->
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
