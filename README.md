@@ -7,7 +7,7 @@
  <h3 align="center">You can Hire me As</h3> 
 <!--  DS%20|%20Algorithms%20|%20OOP%20;  -->
 <h2 align="center">
-<a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester%20|%20API+Tester%20|%20Test+Analyst;Mobile+Automation+Engineer;SQE%20|%20SDET%20;&center=true&width=500&height=50"></a>
+<a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester%20|%20API+Tester%20|%20Test+Analyst;Mobile+Automation+Engineer;SQE%20|%20SDET%20;&center=true&color=34385e&width=500&height=50"></a>
 </h2>
 </div>
 
