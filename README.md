@@ -172,7 +172,7 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
 
 <!-- most used language  -->
 <div align="center">
-<h1 align="center"></h1>  
+<!-- <h1 align="center"></h1>   -->
 <!-- <img width="105" height="105" src="" /> -->
 <!-- <h3></h3> -->
 
