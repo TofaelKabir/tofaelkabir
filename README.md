@@ -32,16 +32,16 @@
 <p align="center">
   <!--Others-->
   <!-- Java  -->
-  <a title = "Java" href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height= "40" width="50"/> </a>
+  <a title = "Java" href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height= "40" width="50"/> </a>
       &nbsp;
   <!-- Python -->
-<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python " height= "40" width="40"/> </a>
+<a title = "Python" href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python " height= "40" width="40"/> </a>
 &nbsp;
   <!-- JS -->
-  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
+  <a title = "JavaScript" href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a> 
   &nbsp; 
-      <!-- NodeJS --> 
-  </a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
+ <!-- NodeJS --> 
+ <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
   &nbsp;
   <!-- HTML -->
   <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
