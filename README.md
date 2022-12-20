@@ -42,7 +42,7 @@
 <p align="center">
   <!--Others-->
   <!-- Java  -->
-  <a title = "Java" href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/> </a>
+  <a title = "Java" href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height= "40" width="40"/> </a>
       &nbsp;
   <!-- Python -->
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python " width="40"/> </a>
@@ -50,7 +50,7 @@
   <!-- JS -->
   <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
   &nbsp; 
-      <!-- NodeJS -->
+      <!-- NodeJS --> 
   </a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
   &nbsp;
   <!-- HTML -->
