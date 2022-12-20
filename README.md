@@ -118,8 +118,8 @@
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
 &nbsp;
   <!-- Hadoop -->
-<a href="" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="Hadoop " width="40"/> </a>
-&nbsp;
+<!-- <a href="" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="Hadoop " width="40"/> </a>
+&nbsp; -->
 </p> 
 
 <div align="center">
@@ -136,14 +136,12 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
 
  <!--- Portfolio/Website --->  
   
- <div align="center">
-<h1 align="center">
-    Portfolio/Website
-    </h2>
+<div align="center">
+<h1 align="center">Portfolio/Website</h1>
    
-  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Md Yeamin`</a>
+  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Mohammad Sharkar`</a>
   
-  <h3 align="center">
+<!--   <h3 align="center">
     my creation another website 
     </h2>
    
@@ -162,7 +160,7 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
   <!-- `backend` -> <a href="https://github.com/mdyeamin/-niche-website-server-side" target="_blank">`Github code`</a> -->
 
 `Code Education` -> <a href="https://procodeeducation.netlify.app/" target="_blank">`website`</a>|
-`frontend` -> <a href="https://github.com/mdyeamin/review-website-react" target="_blank">`Github code`</a>|
+`frontend` -> <a href="https://github.com/mdyeamin/review-website-react" target="_blank">`Github code`</a>| -->
 
   <div align="center">
 <img height="40" src="img/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
