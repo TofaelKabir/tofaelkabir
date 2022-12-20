@@ -15,7 +15,10 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a title = "347-653-7214" href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/84/4e/8c/844e8cd4ab26c82286238471f0e5a901.png" alt="Call" height="40" width="40" /></a>
-  <a title = "tofaelkabir@gmail.com"  href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a><!-- Use your linkedin account url at href -->
+  &nbsp;
+  <a title = "tofaelkabir@gmail.com"  href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
+  &nbsp;
+<!-- Use your linkedin account url at href -->
 <a title = "LinkedIn" href="https://www.linkedin.com/in/mdyeamin05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdyeamin05/" height="30" width="40" /></a>
 <a title = "Facebook" href="https://www.facebook.com/mohammad.t.sharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/mdyeamin05" height="30" width="40" /></a>
 <a title = "Twitter" href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rasel__official" height="30" width="40" /></a>
