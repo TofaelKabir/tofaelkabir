@@ -155,18 +155,18 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
 `backend` -> <a href="https://github.com/mdyeamin/tourism-or-delivery-website-server-side" target="_blank">`Github code`</a>
 
 `Health Sense` -> <a href="https://health-sense-d3b2a.web.app/" target="_blank">`website`</a>|
-`frontend` -> <a href="https://github.com/mdyeamin/-healthcare-react-firebase" target="_blank">`Github code`</a>|
+`frontend` -> <a href="https://github.com/mdyeamin/-healthcare-react-firebase" target="_blank">`Github code`</a>| -->
 
   <!-- `backend` -> <a href="https://github.com/mdyeamin/-niche-website-server-side" target="_blank">`Github code`</a> -->
 
-`Code Education` -> <a href="https://procodeeducation.netlify.app/" target="_blank">`website`</a>|
-`frontend` -> <a href="https://github.com/mdyeamin/review-website-react" target="_blank">`Github code`</a>| -->
+<!-- `Code Education` -> <a href="https://procodeeducation.netlify.app/" target="_blank">`website`</a>|
+`frontend` -> <a href="https://github.com/mdyeamin/review-website-react" target="_blank">`Github code`</a>| 
 
   <div align="center">
 <img height="40" src="img/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
   </div>
 
-<hr>
+<hr> -->
 
   <!-- most used language  -->
 
