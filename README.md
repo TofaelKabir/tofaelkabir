@@ -26,7 +26,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/208413/isolated/preview/fb06d1167b14bf813d41fa2adfe5c0f8-phone-conversation-flat-icon.png" alt="Call" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/84/4e/8c/844e8cd4ab26c82286238471f0e5a901.png" alt="Call" height="30" width="40" /></a>
   <a href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
 <a href="https://twitter.com/@rasel__official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rasel__official" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mdyeamin05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdyeamin05/" height="30" width="40" /></a>
@@ -44,9 +44,9 @@
   <!-- Java  -->
   <a title = "Java" href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/> </a>
       &nbsp;
-  <!-- Python  -->
-  <a href="" target="_blank"> <img src="https://i.pinimg.com/736x/4d/13/d5/4d13d55d6d0b38b7a4e85fcf97ff6279.jpg" alt="Python " width="40"/> </a>
-  &nbsp;
+  <!-- Python -->
+<a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8oQy-izP6sxy05gNeLS1pvM8mpI1U27W9rw&usqp=CAU" alt="Python " width="40"/> </a>
+&nbsp;
   <!-- JS -->
   <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
   &nbsp; 
@@ -66,7 +66,7 @@
   <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
   &nbsp;
   <!-- MYSQL -->
-  <a href="" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MYSQL" width="40" /> </a>
+  <a href="" target="_blank"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MYSQL" width="40" /> </a>
   &nbsp;
  <!-- MongoDb -->
   </a> <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" /> 
@@ -89,6 +89,9 @@
   <!-- Rest Assured  -->
    <a href="" target="_blank"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured " width="40"/> </a>
    &nbsp;
+  <!-- Karate Framework -->
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate Framework " width="40"/> </a>
+  &nbsp;
   <!-- Appium  -->
    <a href="" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a>
   <!-- Postman  -->
