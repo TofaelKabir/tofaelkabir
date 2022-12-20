@@ -1,6 +1,6 @@
 <div align="center">
 <!-- #34385e  FF58C4  Color of Yeamin -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=34385e&center=true&width=1000&lines=Hello,+This+is++Mohammad+Tofael+Kabir+Sharkar...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=#34385e&center=true&width=1000&lines=Hello,+This+is++Mohammad+Tofael+Kabir+Sharkar...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
 
 <!-- You can use + symbol or %20 to give a space between words -->
 <!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
