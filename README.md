@@ -123,7 +123,7 @@
 </p> 
 
 <div align="center">
-<!-- <h1 align="center">All About Me</h1>   -->
+<h1 align="center"></h1>  
 <!-- <img width="105" height="105" src="" /> -->
 <h3>All About Me</h3>
 <!-- You can write at your own -->
