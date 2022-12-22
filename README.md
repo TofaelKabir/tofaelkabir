@@ -88,7 +88,7 @@
   <a title = "Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
   &nbsp;
     <!-- SoapUI  -->
-  <a title = "SoapUI" href="https://www.soapui.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png" alt="SoapUI" width="40"/> </a>
+  <a title = "SoapUI" href="https://www.soapui.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png" alt="SoapUI" height = "50" width="50"/> </a>
   &nbsp;
   <!-- Jira  -->
    <a title = "JIRA" href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" alt="Jira" width="40"/> </a>
