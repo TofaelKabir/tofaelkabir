@@ -84,6 +84,7 @@
   &nbsp;
   <!-- Appium  -->
    <a title = "Appium" href="https://appium.io/" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a>
+  &nbsp;
   <!-- Postman  -->
   <a title = "Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
   &nbsp;
