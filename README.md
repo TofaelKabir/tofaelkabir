@@ -35,22 +35,22 @@
   <a title = "Java" href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height= "40" width="50"/> </a>
       &nbsp;
   <!-- Python -->
-<a title = "Python" href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python " height= "40" width="40"/> </a>
+<a title = "Python" href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python " height= "40" width="40"/> </a>
 &nbsp;
   <!-- JS -->
-  <a title = "JavaScript" href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a> 
+<a title = "JavaScript" href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a> 
   &nbsp; 
  <!-- NodeJS --> 
- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
+ <a title = "NodeJS" href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
   &nbsp;
   <!-- HTML -->
-  <a href="" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
+  <a title = "HTML" href="https://html.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
   &nbsp;
   <!-- CSS -->
-  <a href="" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS" width="40" /> </a>
+  <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS" width="40" /> </a>
   &nbsp;
    <!-- Bootstrap -->
-  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" /> </a>
+  <a title = "Bootstrap" href="https://getbootstrap.com/" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png)" alt="bootstrap" width="40" /> </a>
   &nbsp;
   <!-- SQL  -->
   <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
