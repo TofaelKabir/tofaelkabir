@@ -41,8 +41,8 @@
 <a title = "JavaScript" href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a> 
   &nbsp; 
  <!-- NodeJS --> 
- <a title = "NodeJS" href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
-  &nbsp;
+<!--  <a title = "NodeJS" href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
+  &nbsp; -->
   <!-- HTML -->
   <a title = "HTML" href="https://html.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
   &nbsp;
